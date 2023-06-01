@@ -4,3 +4,4 @@ python3 basepoint.py<p>
 Enter public key:<p>
 Perform element-wise subtraction<p>
 Try your luck uses random numbers to try to break the public key<p>
+basepoint1s.py compressed or uncompressed public key
