@@ -8,4 +8,4 @@ basepoint1s.py compressed or uncompressed public key<p>
 python3 basepoint1s.py <p>
 Enter public key: 0433709eb11e0d4439a729f21c2c443dedb727528229713f0065721ba8fa46f00e2a1c304a39a77775d3579d077b6ee5e4d26fd3ec36f52ad674a9b47fdd999c48 <p>
   
-  If you like the program and want to help feed lost or homeless cats and dogs my bitcoin address is 3KUrwLXLJKyZmnR5tozarEWUTcYEFeGbny
+  If you like the program and want to help feed lost or homeless cats and dogs my bitcoin address is bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm
