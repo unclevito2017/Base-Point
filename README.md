@@ -1,5 +1,5 @@
 # Base-Point
-Deriving Base Point and private key from public key<<br>
+Deriving Base Point and private key from public key, not likely but possible <br>
 python3 basepoint.py<br>
 Enter public key:<br>
 Perform element-wise subtraction<br>
